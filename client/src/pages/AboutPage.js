@@ -31,7 +31,7 @@ const AboutPage = () => {
         
         <h3 className="text-lg font-medium mt-6 mb-3">Technology Stack</h3>
         <p>
-          Our application is built using the MERN stack (MongoDB, Express.js, React, and Node.js) with TensorFlow.js for the AI component.
+          Our application is built using the MERN stack (MongoDB, Express.js, React, and Node.js) with TensorFlow for the AI component.
           We use Cloudinary for image storage and processing.
         </p>
       </div>
@@ -42,7 +42,7 @@ const AboutPage = () => {
           If you have any questions, feedback, or issues with our tool, please don't hesitate to reach out to us at:
         </p>
         <p className="text-blue-600 font-medium mt-2">
-          support@backgroundremoval.example.com
+          vikramaditya@tradeindia.com
         </p>
       </div>
     </div>
@@ -50,3 +50,5 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+
+

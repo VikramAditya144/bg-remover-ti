@@ -13,7 +13,6 @@ const HomePage = () => {
   return (
     <div className="space-y-8">
       <section>
-        <h1 className="text-3xl font-bold mb-6">Background Removal Tool</h1>
         <p className="text-lg text-gray-700 mb-8">
           Upload an image and our AI will automatically remove the background, giving you a clean, transparent image.
         </p>
